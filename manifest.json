@@ -2,15 +2,15 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
   "manifest_version": 2,
-  "name": "SetupVPN - Lifetime Free VPN",
-  "short_name": "SetupVPN",
+  "name": "Newtab - Lifetime Free VPN",
+  "short_name": "Newtab",
   "description": "Unblock any blocked website in your country, school or company. It's free and easy to use.",
   "version": "3.11.9",
   "browser_action": {
     "browser_style": false,
     "default_popup": "popup.html",
     "default_icon" : "images/setupvpn-48-grey.png",
-    "default_title": "SetupVPN"
+    "default_title": "Newtab"
   },
   "icons": {
     "128": "images/setupvpn-128.png"
